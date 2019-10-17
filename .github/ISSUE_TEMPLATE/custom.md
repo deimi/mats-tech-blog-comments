@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: 'Post: XXX'
+about: For starting a new comment section to a post
 title: ''
 labels: ''
 assignees: ''
